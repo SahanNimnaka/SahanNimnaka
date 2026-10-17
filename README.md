@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=29B6F6&center=true&vCenter=true&width=950&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahan+Nimnaka+Pinnagaspitiya;APIIT+University+%7C+Staffordshire+University;Computer+Science+Undergraduate" alt="Animated introduction" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/sahan721">
-    <img src="https://komarev.com/ghpvc/?username=sahan721&style=flat-square&color=29B6F6&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-</p>
+
 
 ---
 
