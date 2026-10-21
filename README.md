@@ -109,12 +109,6 @@ I'm interested in building practical software applications, improving my full-st
   <img src="https://streak-stats.demolab.com?user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6" alt="GitHub contribution streak" />
 </p>
 
-
----
-
-## 🏆 GitHub Profile Trophies
-
-
 ## 🏆 GitHub Profile Trophies
 
 <p align="left">
