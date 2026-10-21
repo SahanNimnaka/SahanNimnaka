@@ -109,13 +109,18 @@ I'm interested in building practical software applications, improving my full-st
   <img src="https://streak-stats.demolab.com?user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6" alt="GitHub contribution streak" />
 </p>
 
-### 📅 Contribution Activity
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanNimnaka&theme=tokyo-night" alt="GitHub contribution activity graph" width="100%" />
+---
+
+## 🏆 GitHub Profile Trophies
+
+<p align="left">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=SahanNimnaka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    alt="GitHub Profile Trophies"
+  />
 </p>
 
-*Statistics and activity graphs rely on external services and may be affected by caching or temporary service outages.*
 
 ---
 
