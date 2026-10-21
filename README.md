@@ -133,7 +133,7 @@ I'm interested in building practical software applications, improving my full-st
 
 ## 🔗 Other Links
 
-- 🌐 [My Portfolio](https://portfolio-phi-two-33.vercel.app/)
+- 🌐 [My Portfolio](portfolio-eight-psi-ch3aihk8g1.vercel.app)
 
 ---
 
