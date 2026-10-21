@@ -1,4 +1,5 @@
- <p align="center">
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=29B6F6&center=true&vCenter=true&width=950&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahan+Nimnaka+Pinnagaspitiya;APIIT+University+%7C+Staffordshire+University;Computer+Science+Undergraduate" alt="Animated introduction" />
 </p>
 
@@ -17,6 +18,24 @@ I'm interested in building practical software applications, improving my full-st
 - 🎯 **Goal:** Secure a software development internship and gain practical industry experience
 - 🤝 **Open to:** Hackathons, collaboration, and open-source projects
 - 📍 **Location:** Kandy, Sri Lanka
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahan-pinnagaspitiya-931042325">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/sahan_nimnaka">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sahan.__7">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
@@ -56,71 +75,47 @@ I'm interested in building practical software applications, improving my full-st
 
 ---
 
-## 🚀 Featured Projects
 
-### 🌍 Air Guard — Air Quality Monitoring & Prediction
 
-A project focused on collecting air-quality readings and developing an AI-based prediction component.
-
-**Technologies:** TypeScript, Node.js, Express, PostgreSQL, Prisma, Python
-
-[![View Repository](https://img.shields.io/badge/View_Repository-Air_Guard-29B6F6?style=for-the-badge&logo=github)](https://github.com/SahanNimnaka/air_guard-_back)
-
-### 🏥 MediSync — Hospital Staff Management
-
-A hospital staff management application supporting staff-related administrative workflows.
-
-**Technologies:** Laravel, PHP, Livewire, Tailwind CSS
-
-[![View Repository](https://img.shields.io/badge/View_Repository-MediSync-29B6F6?style=for-the-badge&logo=github)](https://github.com/SahanNimnaka/medisync2.3)
-
-### 🥤 BubbleBlizz — Beverage Application
-
-A beverage-related application project.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-BubbleBlizz-29B6F6?style=for-the-badge&logo=github)](https://github.com/SahanNimnaka/BubbleBlizz)
-
-### 🚀 Neptune
-
-A software development project.
-
-**Technologies:** Add the technologies used in Neptune.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-Neptune-29B6F6?style=for-the-badge&logo=github)](https://github.com/SahanNimnaka)
+<p>
+  <a href="https://personal-ai-data-agent.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit-29B6F6?style=for-the-badge&logo=vercel" alt="Live demo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SahanNimnaka/Personal-AI-Data-Agent">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub repository" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SahanNimnaka&show_icons=true&theme=tokyonight&hide_border=true&title_color=29B6F6&icon_color=29B6F6"
-    alt="GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanNimnaka&layout=compact&theme=tokyonight&hide_border=true&title_color=29B6F6"
-    alt="Most-used programming languages"
-  />
+### 💻 Top Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanNimnaka&layout=compact&theme=tokyonight&hide_border=true&title_color=29B6F6" alt="Most-used programming languages" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6"
-    alt="GitHub contribution streak"
-  />
+### 📈 Overall Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SahanNimnaka&show_icons=true&theme=tokyonight&hide_border=true&title_color=29B6F6&icon_color=29B6F6" alt="GitHub statistics" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SahanNimnaka&theme=tokyo-night"
-    alt="GitHub contribution activity graph"
-    width="100%"
-  />
+### 🔥 GitHub Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6" alt="GitHub contribution streak" />
 </p>
 
-*Statistics and activity graphs rely on external services. Updates may be delayed by caching or temporary service outages.*
+### 📅 Contribution Activity
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanNimnaka&theme=tokyo-night" alt="GitHub contribution activity graph" width="100%" />
+</p>
+
+*Statistics and activity graphs rely on external services and may be affected by caching or temporary service outages.*
 
 ---
 
@@ -136,16 +131,11 @@ A software development project.
 
 ---
 
-## 🤝 Connect With Me
+## 🔗 Other Links
 
-<p>
-  <a href="https://github.com/SahanNimnaka">
-    <img src="https://img.shields.io/badge/GitHub-SahanNimnaka-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sahan-pinnagaspitiya-931042325">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+- 🌐 [My Portfolio](https://portfolio-phi-two-33.vercel.app/)
+
+---
 
 <p align="center">
   <i>Learning continuously. Building practically. Growing every day.</i>
