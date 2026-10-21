@@ -40,10 +40,16 @@ I'm interested in building practical software applications, improving my full-st
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" alt="Mobile development technologies" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,postman" alt="Databases and development tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Database technologies" />
+</p>
+
+### 🧰 Tools & Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
 </p>
 
 *These technologies reflect tools I've used or explored across my projects; they don't imply equal expertise in every technology.*
