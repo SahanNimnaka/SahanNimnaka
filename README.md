@@ -114,12 +114,13 @@ I'm interested in building practical software applications, improving my full-st
 
 ## 🏆 GitHub Profile Trophies
 
+
+## 🏆 GitHub Profile Trophies
+
 <p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=SahanNimnaka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-    alt="GitHub Profile Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=SahanNimnaka" alt="GitHub Profile Trophies" />
 </p>
+
 
 
 ---
