@@ -56,7 +56,7 @@ I'm interested in building practical software applications, improving my full-st
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" alt="Mobile development technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" alt="Mobile technologies" />
 </p>
 
 ### 🗄️ Databases
@@ -75,15 +75,15 @@ I'm interested in building practical software applications, improving my full-st
 
 ---
 
-
+## 🚀 Featured Project
 
 <p>
   <a href="https://personal-ai-data-agent.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit-29B6F6?style=for-the-badge&logo=vercel" alt="Live demo" />
+    <img src="https://img.shields.io/badge/LIVE_DEMO-VISIT-29B6F6?style=for-the-badge&logo=vercel" alt="Live demo" />
   </a>
   &nbsp;
   <a href="https://github.com/SahanNimnaka/Personal-AI-Data-Agent">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub repository" />
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github" alt="GitHub repository" />
   </a>
 </p>
 
@@ -94,28 +94,40 @@ I'm interested in building practical software applications, improving my full-st
 ### 💻 Top Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanNimnaka&layout=compact&theme=tokyonight&hide_border=true&title_color=29B6F6" alt="Most-used programming languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahanNimnaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most-used programming languages"
+  />
 </p>
 
-### 📈 Overall Stats
+### 📈 Overall Statistics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanNimnaka&show_icons=true&theme=tokyonight&hide_border=true&title_color=29B6F6&icon_color=29B6F6" alt="GitHub statistics" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=SahanNimnaka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub statistics"
+  />
 </p>
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Contribution Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6"
+    alt="GitHub contribution streak"
+  />
 </p>
+
+---
 
 ## 🏆 GitHub Profile Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahanNimnaka" alt="GitHub Profile Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=SahanNimnaka&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub Profile Trophies"
+  />
 </p>
-
-
 
 ---
 
@@ -133,7 +145,7 @@ I'm interested in building practical software applications, improving my full-st
 
 ## 🔗 Other Links
 
-- 🌐 [My Portfolio](portfolio-eight-psi-ch3aihk8g1.vercel.app)
+- 🌐 [My Portfolio](https://portfolio-eight-psi-ch3aihk8g1.vercel.app/)
 
 ---
 
