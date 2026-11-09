@@ -27,11 +27,9 @@ I'm interested in building practical software applications, improving my full-st
   <a href="https://www.linkedin.com/in/sahan-pinnagaspitiya-931042325">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://x.com/sahan_nimnaka">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/sahan.__7">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
@@ -77,11 +75,10 @@ I'm interested in building practical software applications, improving my full-st
 
 ## 🚀 Featured Project
 
-<p>
+<p align="left">
   <a href="https://personal-ai-data-agent.vercel.app/">
     <img src="https://img.shields.io/badge/LIVE_DEMO-VISIT-29B6F6?style=for-the-badge&logo=vercel" alt="Live demo" />
   </a>
-  &nbsp;
   <a href="https://github.com/SahanNimnaka/Personal-AI-Data-Agent">
     <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github" alt="GitHub repository" />
   </a>
@@ -89,43 +86,32 @@ I'm interested in building practical software applications, improving my full-st
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 ### 💻 Top Languages
 
-<p>
+<p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahanNimnaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most-used programming languages"
+    alt="Top programming languages"
   />
 </p>
 
-### 📈 Overall Statistics
+### 📈 Overall GitHub Statistics
 
-<p>
+<p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=SahanNimnaka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub statistics"
+    alt="GitHub overall statistics"
   />
 </p>
 
 ### 🔥 GitHub Contribution Streak
 
-<p>
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6"
+    src="https://streak-stats.demolab.com?user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&timezone=Asia%2FColombo"
     alt="GitHub contribution streak"
-  />
-</p>
-
----
-
-## 🏆 GitHub Profile Trophies
-
-<p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=SahanNimnaka&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub Profile Trophies"
   />
 </p>
 
@@ -154,5 +140,5 @@ I'm interested in building practical software applications, improving my full-st
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=29B6F6&height=100&section=footer" alt="Decorative footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=29B6F6&height=100&section=footer" alt="Footer" />
 </p>
