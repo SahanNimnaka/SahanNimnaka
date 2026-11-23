@@ -1,0 +1,73 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # 03:00 UTC = 08:30 Asia/Colombo
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch: # Allows a manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7.0.1
+
+      - name: Create output directory
+        run: mkdir -p profile
+
+      - name: Generate streak statistics
+        uses: DenverCoder1/github-readme-streak-stats@v1.8.2
+        with:
+          options: >-
+            user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&timezone=Asia/Colombo&disable_animations=true
+          path: profile/streak.svg
+
+      - name: Verify generated SVG
+        run: |
+          set -euo pipefail
+
+          if [ ! -s profile/streak.svg ]; then
+            echo "ERROR: profile/streak.svg was not generated or is empty."
+            exit 1
+          fi
+
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          path = Path("profile/streak.svg")
+          svg = path.read_text(encoding="utf-8")
+
+          if "<svg" not in svg or "</svg>" not in svg:
+              raise SystemExit("ERROR: profile/streak.svg does not contain SVG markup.")
+
+          root = ET.fromstring(svg)
+          if not root.tag.lower().endswith("svg"):
+              raise SystemExit(f"ERROR: unexpected root element: {root.tag}")
+
+          print(f"Verified {path}: {len(svg)} bytes, root element <{root.tag}>")
+          PY
+
+      - name: Commit and push updated SVG
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/streak.svg
+
+          if git diff --cached --quiet; then
+            echo "No streak changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub contribution streak"
+          git push
