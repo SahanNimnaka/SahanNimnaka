@@ -110,7 +110,7 @@ I'm interested in building practical software applications, improving my full-st
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SahanNimnaka&theme=tokyonight&hide_border=true&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&timezone=Asia%2FColombo"
+    src="./profile/streak.svg"
     alt="GitHub contribution streak"
   />
 </p>
